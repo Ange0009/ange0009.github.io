@@ -167,7 +167,7 @@ img { max-width: 100%; display: block; }
 
 .hero-photo {
     position: relative;
-    width: 400px; height: 600px;
+    width: 500px; height: 750px;
     flex-shrink: 0;
 }
 .hero-photo img {
