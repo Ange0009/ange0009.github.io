@@ -58,7 +58,7 @@ img { max-width: 100%; display: block; }
     transition: background 0.3s, box-shadow 0.3s;
 }
 .navbar.scrolled {
-    background: var(--green-dark);
+    background: var(--green);
     box-shadow: 0 2px 16px rgba(1, 94, 17, 0.664);
 }
 
